@@ -165,7 +165,7 @@ This project is licensed under the MIT License.
 If you use these scripts in your research, please cite:
 
 ```
-Xuejiao Hou. (2023). Mendelian Randomization Analysis Code. 
+Xuejiao Hou. (2025). Mendelian Randomization Analysis Code. 
 GitHub Repository. https://github.com/lie2345/MR_Code
 ```
 
